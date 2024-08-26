@@ -14,6 +14,6 @@ Insights:- *WOW CHANGES*:
           * Total interest is 8M
           * Total transection amount is 46M
           * Male customer are contributing more in revenue 31M, female 26M
-          * Blue & Silve credit card are contributing to 93% of overall transection 
+          * Blue & Silver credit card are contributing to 93% of overall transection 
           * Overall activation rate is 57.5%
-          * Overall delinwuent rate is 6.06%
+          * Overall delinquent rate is 6.06%
