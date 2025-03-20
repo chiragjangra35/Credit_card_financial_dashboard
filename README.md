@@ -17,3 +17,4 @@ Insights:- *WOW CHANGES*:
           * Blue & Silver credit card are contributing to 93% of overall transection 
           * Overall activation rate is 57.5%
           * Overall delinquent rate is 6.06%
+![image](https://github.com/user-attachments/assets/c3b7678f-7ecf-439a-9343-76ac33d151a0)
