@@ -18,3 +18,6 @@ Insights:- *WOW CHANGES*:
           * Overall activation rate is 57.5%
           * Overall delinquent rate is 6.06%
 ![image](https://github.com/user-attachments/assets/c3b7678f-7ecf-439a-9343-76ac33d151a0)
+
+![image](https://github.com/user-attachments/assets/4dd1174b-016f-4e71-a32b-1f093ea630d3)
+
